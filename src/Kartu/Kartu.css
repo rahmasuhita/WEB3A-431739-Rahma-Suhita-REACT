@@ -1,0 +1,19 @@
+.minus{
+    border: teal;
+}
+
+.plus{
+    border: teal;
+}
+
+.Card{
+    border-color: black ;
+}
+
+.ant-card-cover{
+    text-align: center;
+}
+
+.ant-card-body{
+    text-align: center;
+}

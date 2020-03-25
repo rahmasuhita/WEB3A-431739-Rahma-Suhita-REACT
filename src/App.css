@@ -47,7 +47,7 @@
   color: white;
 }
 .ant-card-body{
-  background: #b7e3fa;
+  background: white;
   font-size: 15px;
 }
 
@@ -71,4 +71,3 @@
 .ant-carousel .slick-slide h3 {
   color: #fff;
 }
-
