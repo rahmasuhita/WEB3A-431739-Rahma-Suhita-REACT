@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/rahmasuhita/WEB3A-431739-Rahma-Suhita-REACT.git/static/css/main.2294cd97.chunk.css",
-    "main.js": "/rahmasuhita/WEB3A-431739-Rahma-Suhita-REACT.git/static/js/main.a7dea1a6.chunk.js",
-    "main.js.map": "/rahmasuhita/WEB3A-431739-Rahma-Suhita-REACT.git/static/js/main.a7dea1a6.chunk.js.map",
-    "runtime-main.js": "/rahmasuhita/WEB3A-431739-Rahma-Suhita-REACT.git/static/js/runtime-main.bd9a582f.js",
-    "runtime-main.js.map": "/rahmasuhita/WEB3A-431739-Rahma-Suhita-REACT.git/static/js/runtime-main.bd9a582f.js.map",
-    "static/js/2.0d79a455.chunk.js": "/rahmasuhita/WEB3A-431739-Rahma-Suhita-REACT.git/static/js/2.0d79a455.chunk.js",
-    "static/js/2.0d79a455.chunk.js.map": "/rahmasuhita/WEB3A-431739-Rahma-Suhita-REACT.git/static/js/2.0d79a455.chunk.js.map",
-    "index.html": "/rahmasuhita/WEB3A-431739-Rahma-Suhita-REACT.git/index.html",
-    "precache-manifest.41533316b7d958aac562f2e6dfb23874.js": "/rahmasuhita/WEB3A-431739-Rahma-Suhita-REACT.git/precache-manifest.41533316b7d958aac562f2e6dfb23874.js",
-    "service-worker.js": "/rahmasuhita/WEB3A-431739-Rahma-Suhita-REACT.git/service-worker.js",
-    "static/css/main.2294cd97.chunk.css.map": "/rahmasuhita/WEB3A-431739-Rahma-Suhita-REACT.git/static/css/main.2294cd97.chunk.css.map",
-    "static/js/2.0d79a455.chunk.js.LICENSE.txt": "/rahmasuhita/WEB3A-431739-Rahma-Suhita-REACT.git/static/js/2.0d79a455.chunk.js.LICENSE.txt"
+    "main.css": "/WEB3A-431739-Rahma-Suhita-REACT/static/css/main.2294cd97.chunk.css",
+    "main.js": "/WEB3A-431739-Rahma-Suhita-REACT/static/js/main.157d60d8.chunk.js",
+    "main.js.map": "/WEB3A-431739-Rahma-Suhita-REACT/static/js/main.157d60d8.chunk.js.map",
+    "runtime-main.js": "/WEB3A-431739-Rahma-Suhita-REACT/static/js/runtime-main.6ca35d62.js",
+    "runtime-main.js.map": "/WEB3A-431739-Rahma-Suhita-REACT/static/js/runtime-main.6ca35d62.js.map",
+    "static/js/2.0d79a455.chunk.js": "/WEB3A-431739-Rahma-Suhita-REACT/static/js/2.0d79a455.chunk.js",
+    "static/js/2.0d79a455.chunk.js.map": "/WEB3A-431739-Rahma-Suhita-REACT/static/js/2.0d79a455.chunk.js.map",
+    "index.html": "/WEB3A-431739-Rahma-Suhita-REACT/index.html",
+    "precache-manifest.c800192ede51de5f079eeca438165ba6.js": "/WEB3A-431739-Rahma-Suhita-REACT/precache-manifest.c800192ede51de5f079eeca438165ba6.js",
+    "service-worker.js": "/WEB3A-431739-Rahma-Suhita-REACT/service-worker.js",
+    "static/css/main.2294cd97.chunk.css.map": "/WEB3A-431739-Rahma-Suhita-REACT/static/css/main.2294cd97.chunk.css.map",
+    "static/js/2.0d79a455.chunk.js.LICENSE.txt": "/WEB3A-431739-Rahma-Suhita-REACT/static/js/2.0d79a455.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bd9a582f.js",
+    "static/js/runtime-main.6ca35d62.js",
     "static/js/2.0d79a455.chunk.js",
     "static/css/main.2294cd97.chunk.css",
-    "static/js/main.a7dea1a6.chunk.js"
+    "static/js/main.157d60d8.chunk.js"
   ]
 }

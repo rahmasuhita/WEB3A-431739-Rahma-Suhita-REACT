@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rahmasuhita/WEB3A-431739-Rahma-Suhita-REACT.git/precache-manifest.41533316b7d958aac562f2e6dfb23874.js"
+  "/WEB3A-431739-Rahma-Suhita-REACT/precache-manifest.c800192ede51de5f079eeca438165ba6.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/rahmasuhita/WEB3A-431739-Rahma-Suhita-REACT.git/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/WEB3A-431739-Rahma-Suhita-REACT/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
