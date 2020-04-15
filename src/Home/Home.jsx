@@ -23,10 +23,11 @@ class Home extends Component {
                 <Header>
                 <div className="logo" />
                 <Menu theme="dark" mode="horizontal" defaultSelectedKeys={['2']}>
+                <Menu onClick={this.handleClick} selectedKeys={[this.state.current]} mode="horizontal">
                     <Menu.Item key="1">
                         <Link to="/home">Home</Link>
                     </Menu.Item>
-                    
+                </Menu>
                 </Menu>
                 </Header>
                 <Content style={{ padding: '0 50px' }}>
